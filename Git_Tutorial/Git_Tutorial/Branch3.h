@@ -1,6 +1,7 @@
 #pragma once
 
 // 나는 Branch3에서 작업하고 있다
+// 열심히 작업 하다가 메인을 고치고싶어졌다
 class Branch3
 {
 public:
