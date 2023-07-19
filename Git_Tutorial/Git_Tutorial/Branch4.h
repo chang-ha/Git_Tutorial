@@ -1,6 +1,7 @@
 #pragma once
 
 // 나는 Branch4에서 작업 중
+// main을 수정해야 겠는데?
 class Branch4
 {
 public:
