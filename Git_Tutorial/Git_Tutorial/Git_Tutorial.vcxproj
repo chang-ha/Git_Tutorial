@@ -23,10 +23,18 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="Branch2.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Branch1.h">
+      <SubType>
+      </SubType>
+    </ClInclude>
+    <ClInclude Include="Branch2.h">
       <SubType>
       </SubType>
     </ClInclude>
